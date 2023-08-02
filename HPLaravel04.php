@@ -1,4 +1,2 @@
-<?php
-date_default_timezone_set('Asia/Tokyo');
-echo date('Y-m-d H:i:s');
-?>
+<<<<<<< HEAD
+>>>>>>> 931bedd4e47c83ec925be7f5178b178d1542fe82
